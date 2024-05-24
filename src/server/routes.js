@@ -1,5 +1,5 @@
 const postPredictHandler = require('../server/handler');
- 
+
 const routes = [
   {
     path: '/predict',
@@ -13,5 +13,5 @@ const routes = [
     }
   }
 ]
- 
+
 module.exports = routes;
